@@ -1,0 +1,24 @@
+.VideoListContainer{
+    margin-top:40px;
+    padding:0px;
+    border: 1px solid #333;
+}
+.VideoBox{
+    padding:20px;
+}
+.VideoSearchBox{
+    padding:20px;
+    border-bottom: 1px solid #333;
+}.padding0{
+    padding:0px;
+}
+.VideoListBorder{
+    border-bottom:1px solid #333;
+    padding:20px;
+}
+.ContentSpace{
+    padding:10px 0px;
+}
+.fontsize{
+    font-weight:bold;
+}
