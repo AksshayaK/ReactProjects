@@ -1,12 +1,23 @@
-.flex{
-    width: 15%;
-      padding: 10px;
-      height: 30rem;
-      display: inline-flex;
-      margin: 10px;
-      flex-direction: row;
-      align-content: stretch;
-      justify-content: center;
-      flex-wrap: wrap;
-      border: 1px solid #282c34;
+.flex {
+  width: 15%;
+  padding: 10px;
+  height: 30rem;
+  display: inline-flex;
+  margin: 10px;
+  flex-direction: row;
+  align-content: stretch;
+  justify-content: center;
+  flex-wrap: wrap;
+  border: 1px solid #282c34;
+}
+
+  .App {
+    text-align: center;
+    background: linear-gradient(108deg, #eeeeee 22%, #fbdfdf 60%);
   }
+
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
